@@ -1,0 +1,44 @@
+.us{
+    text-align: center;
+    background-color: burlywood;
+    padding: 10%;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.back{
+    text-align: center;
+    margin-top: 20%;
+    text-decoration: none;
+}
+.firstdownload{
+    margin-top: 10px;
+    font-style: italic;
+    text-size-adjust: 20px;
+}
+
+.contact{
+    margin-top: 50px;
+    align-content: center;
+}
+.firstimg{
+    margin-top: 30px;
+}
+*{
+    box-sizing: border-box;
+}
+
+.arrange{
+    
+    float: left;
+    width: 50%;
+}
+.allsec{
+    display: flex;
+}
+
+.about{
+    text-align: center;
+    color: white;
+    background-color:blueviolet;
+    border-width: 50px;
+}
